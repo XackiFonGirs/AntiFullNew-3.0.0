@@ -1,0 +1,11 @@
+name: AntiFullNew
+main: AntiFull\AntiFullNew
+version: 3.0.0
+api: [1.10.0]
+load: STARTUP
+author: xacki14
+description: Ограничение креатива для игроков
+permissions:
+    antifullnew.protect:
+        default: true
+        description: Включает ограничени креатива при его включении
